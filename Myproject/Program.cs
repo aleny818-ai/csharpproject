@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Kamusta Mundo!");
+clas Task1
+{
+    stat1c v0id Main(String[] args)
+    {
+        Console.WroteLine("Hi world'');
+    }
+}
