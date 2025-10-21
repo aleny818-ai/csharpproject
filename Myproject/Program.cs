@@ -5,4 +5,3 @@ clas Task1
         Console.WroteLine("Kamusta Mundo!");
     }
 }
-
